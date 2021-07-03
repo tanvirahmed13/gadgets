@@ -1,0 +1,53 @@
+p {
+    color: dimgray;
+}
+
+.container {
+    margin-bottom: 100px;
+    background-image: ;
+}
+
+/*---------------------------------------------------nav bar starting--------------------------------------------------------*/
+
+
+nav{
+    padding-top: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: auto;
+}
+
+/*---------------------------------------------------caurosol starting--------------------------------------------------------*/
+
+
+.crbg {
+    border-radius: 10px;
+    background-image: url(hot-gadgets/bg-2.png);
+    background-repeat: no-repeat;
+}
+
+.buy-btn {
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+
+/*---------------------------------------------------nav bar starting--------------------------------------------------------*/
+
+
+
+
+/*---------------------------------------------------navbarstarting--------------------------------------------------------*/
+
+
+
+
+
+/*---------------------------------------------------navbarstarting--------------------------------------------------------*/
